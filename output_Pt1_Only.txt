@@ -1,0 +1,7 @@
+Lab7 Pt1 - Let's get ready to rumble :-)
+========================================
+myArray[] has 8 elements
+The sum of all elements in myArray[] is: 54
+The avg of all elements in myArray[] is: 6.75
+The largest number in myArray[] is: 9
+The index of the largest number in myArray[] is: 5
